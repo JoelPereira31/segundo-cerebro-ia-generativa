@@ -22,7 +22,7 @@ Uso de referências acadêmicas de ponta para fundamentar o caderno com o estado
 
 🔗 4. Link do Notebook Compartilhado
 Você pode acessar o caderno interativo completo diretamente por este link:
-👉 🤖 [Estudos de Inteligência Artificial Generativa]
+👉 🤖 https://notebook.google.com/notebook/4249a4fa-d6e6-4671-b256-11342b5764eb
 
 📂 6. Evidências e Materiais de Estudo GeradosNeste repositório, você encontrará os seguintes artefatos produzidos a partir da aba Estúdio do Gemini Notebook:
 
